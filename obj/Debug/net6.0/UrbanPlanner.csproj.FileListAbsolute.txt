@@ -1,0 +1,15 @@
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\bin\Debug\net6.0\UrbanPlanner.exe
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\bin\Debug\net6.0\UrbanPlanner.deps.json
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\bin\Debug\net6.0\UrbanPlanner.runtimeconfig.json
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\bin\Debug\net6.0\UrbanPlanner.dll
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\bin\Debug\net6.0\ref\UrbanPlanner.dll
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\bin\Debug\net6.0\UrbanPlanner.pdb
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\obj\Debug\net6.0\UrbanPlanner.csproj.AssemblyReference.cache
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\obj\Debug\net6.0\UrbanPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\obj\Debug\net6.0\UrbanPlanner.AssemblyInfoInputs.cache
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\obj\Debug\net6.0\UrbanPlanner.AssemblyInfo.cs
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\obj\Debug\net6.0\UrbanPlanner.csproj.CoreCompileInputs.cache
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\obj\Debug\net6.0\UrbanPlanner.dll
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\obj\Debug\net6.0\ref\UrbanPlanner.dll
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\obj\Debug\net6.0\UrbanPlanner.pdb
+C:\Users\hello\workspace\backend\book-1\UrbanPlanner\obj\Debug\net6.0\UrbanPlanner.genruntimeconfig.cache
